@@ -1,0 +1,17 @@
+body{
+    background: url(coffee.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.coffee{
+    color: white;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
+}
+.cup{
+    width: 300px;
+    height: 150px;
+}
